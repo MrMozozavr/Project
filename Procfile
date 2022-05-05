@@ -1,0 +1,1 @@
+worker: python mybot copy 4.py
